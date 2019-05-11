@@ -33,19 +33,6 @@ En el transcurso de un incidente, ya sea en persona o en línea, cualquier miemb
 * Pídele al informante que reporte el incidente a través del [Formulario de Reporte de incidentes de Código de Conducta] [formulario-de-reporte]. Si prefieren que seas tú mismo quien complete el informe, hazlo con su ayuda.
 * Informa al organizador del taller que hubo un incidente y que se envió un informe a través del [Formulario de Reporte de incidentes] [formulario-de-reporte]. Si el incidente involucra al organizador del taller, informa el incidente directamente al Comité del Código de conducta a través del formulario de reporte del incidente.
 
-
-**Online Events and Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**
-* Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form]. 
-* If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority.
-
-If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](termed-suspension.html), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident.
-
-Individuals reported often get upset, defensive, or deny the report. Allow them to give any additional details about the incident. However, remember:
-
-- It does not matter if they did not intend to hurt anyone; their behaviour still impacted participants negatively.
-- It is not your job to reassure or forgive them.
-- Do not allow the reported person to make an apology to the reporter or impacted person. Often an apology centers the reported person’s feelings and not the person who was impacted. You may accept their apology and offer to pass it on, but you’re not required to if you think it would negatively impact the reporter.
-
 **Lista de Verificación para Canales de Comunicación y Eventos En Línea (demostraciones de enseñanza, discusiones de la comunidad, capacitación de instructores de Carpentries , Canales de Slack, TopicBox)**
 * Informa al organizador del evento/facilitador de la reunión que hubo un problema y envía un informe a través del [Formulario de Reporte de incidentes] [formulario-de-reporte].
 * Si el incidente involucra al organizador del evento/facilitador de la reunión, completa el [Formulario de Reporte de incidentes] [formulario-de-reporte] y teniendo la seguridad de que nuestra prioridad es la confidencialidad y tu experiencia en nuestra comunidad.
