@@ -10,15 +10,15 @@ Idealmente, todos podríamos ser capaces de diluir/reducir un incidente. En la p
 
 Si puedes, pasa de ser un espectador a ser un agente de intervención rápida para el Código de Conducta. Si ves que sucede algo inapropiado, tienes que hablar. Si no te sientes cómodo al intervenir, pero crees que alguien debería hacerlo, presenta un informe en persona al anfitrión o instructor del taller, o mediante el [Formulario de Reporte de incidentes de Código de Conducta] [formulario-de-reporte] al Comité del Código de Conducta.
 
-##### Respuesta Inmediata 
+#### Respuesta Inmediata 
 
 La respuesta inicial a un incidente es muy importante y establecerá el tono para la comunidad de The Carpentries. Dependiendo de la gravedad y/o de los detalles del incidente, puede requerirse una respuesta inmediata. Si un incidente implica un peligro físico o una amenaza para la seguridad de cualquier persona (por ejemplo, amenazas de violencia), cualquier miembro de la comunidad puede -- y debe -- actuar de inmediato para proteger la seguridad. Esto puede incluir contactar recursos de emergencia o crisis.
 
-##### Incidentes en curso
+#### Incidentes en curso
 
 En el transcurso de un incidente, ya sea en persona o en línea, cualquier miembro de la comunidad (organizador del taller, instructor, ayudante) puede actuar de inmediato y emplear cualquiera de las herramientas disponibles para pacificar la situación. En situaciones en las que un individuo/miembro de la comunidad actúa de inmediato, se debe informar al organizador del taller enseguida y reportar sus acciones al Comité del Código de Conducta para su revisión dentro de las 24 horas posteriores al incidente. En caso de que sea necesaria una respuesta inmediata, consulte la [Lista de verificación de Respuesta Inmediata] (#Listas-de-verificación-para-responder-a-un-incidente).
 
-##### Listas-de-verificación-para-responder-a-un-incidente
+#### Listas-de-verificación-para-responder-a-un-incidente
 
 **Lista de verificación de Respuesta Inmediata**
 * Evalúa si es necesaria la presencia de un agente de intervención rapida (cumplimiento de la ley, etc.) para responder al incidente inmediatamente.  Si es así, pídale al informante que se quede contigo y marca el número de respuesta ante emergencias apropiado.
@@ -46,11 +46,11 @@ Individuals reported often get upset, defensive, or deny the report. Allow them 
 - It is not your job to reassure or forgive them.
 - Do not allow the reported person to make an apology to the reporter or impacted person. Often an apology centers the reported person’s feelings and not the person who was impacted. You may accept their apology and offer to pass it on, but you’re not required to if you think it would negatively impact the reporter.
 
-**Lista de Verificación para Canales de Comunicación y Eventos En Línea (demostraciones de enseñanza, discusiones de la comunidad, capacitación de instructores de carpinterías, canales Slack, TopicBox)**
-* Informe al organizador del evento / facilitador de la reunión que hubo un problema y envíe un informe a través del [formulario de informe de incidentes] [formulario de informe].
-* Si el incidente involucra al organizador del evento / facilitador de la reunión, complete el [formulario de informe de incidente] [formulario de informe] y tenga la seguridad de que nuestra prioridad es la confidencialidad y su experiencia en nuestra comunidad.
+**Lista de Verificación para Canales de Comunicación y Eventos En Línea (demostraciones de enseñanza, discusiones de la comunidad, capacitación de instructores de Carpentries , Canales de Slack, TopicBox)**
+* Informa al organizador del evento/facilitador de la reunión que hubo un problema y envía un informe a través del [Formulario de Reporte de incidentes] [formulario-de-reporte].
+* Si el incidente involucra al organizador del evento/facilitador de la reunión, completa el [Formulario de Reporte de incidentes] [formulario-de-reporte] y teniendo la seguridad de que nuestra prioridad es la confidencialidad y tu experiencia en nuestra comunidad.
 
-Si un miembro de la comunidad ha violado el CoC a través de un evento en línea, el comité del CoC puede promulgar una [Suspensión Térmica] (termed-suspension.html) a corto plazo, y los privilegios del reporte para todos los canales de comunicación de Carpentries podrían suspenderse hasta que el Código de El Comité de Conducta ha concluido su investigación del incidente denunciado.
+Si un miembro de la comunidad ha violado el CoC a través de un evento en línea, el comité del CoC puede promulgar una [Suspensión Témporaria] (termed-suspension.html) a corto plazo, y los privilegios del reportado para todos los canales de comunicación de Carpentries podrían suspenderse hasta que el Código de El Comité de Conducta ha concluido su investigación del incidente denunciado.
 
 Las personas informadas a menudo se enojan, se ponen a la defensiva o rechazan el informe. Permítales dar cualquier detalle adicional sobre el incidente. Sin embargo, recuerde:
 
