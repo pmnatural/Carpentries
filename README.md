@@ -1,2 +1,2 @@
 # Carpentries
-Traduccion de https://docs.carpentries.org/topic_folders/policies/incident-reporting.html
+Traduccion de https://docs.carpentries.org/topic_folders/policies/incident-response.html
