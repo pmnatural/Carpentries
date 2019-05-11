@@ -1,37 +1,38 @@
-### Code of Conduct Incident Response Guidelines
+### Pautas para Responder ante Incidentes de Código de Conducta
 
-Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](incident-reporting.html).
+La información sobre cómo reportar un incidente de Codigo de Conducta (CoC) se describe en nuestro [Lineamientos para Reportar Incidentes de Código de Conducta](reportar-incidentes.html).
 
-The checklists below outline the steps any community member (workshop host, [instructor](https://carpentries.org/instructors/), helper, etc.) can take during a potential Code of Conduct incident __before__ reporting it to the Code of Conduct Committee. You may encounter challenging situations and have limited experience or training to feel comfortable enforcing the CoC. These guidelines are meant to help guide you through the process of supporting other community members and yourself during an incident. 
+Las listas de verificación que se presentan a continuación describen los pasos que cualquier miembro de la comunidad (organizador del taller, [instructor] (https://carpentries.org/instructors/), ayudan, etc.) puede tomar durante un posible incidente de Código de Conducta __antes__ de informar al Comité del Código de Conducta. Pueden presentarse situaciones desafiantes, y la experiencia o la capacitación recibidas pueden ser limitadas para hacer cumplir el CoC de manera cómoda. Estas pautas tienen como propósito brindar una guía de ayuda para poder apoyar a otros miembros de la comunidad y también para ti mismo durante un incidente.
 
-All Carpentries community members should feel empowered to enforce the Code of Conduct. 
+Todos los miembros de la comunidad Carpentries deben sentirse facultados para hacer cumplir el Código de conducta.
 
-Ideally, we would all be able to diffuse an incident. In practice, we have varying comfort with situations depending on our current experience and the environment. Below are ways that you can be supportive and steps that you can take during or after an incident.
+Idealmente, todos podríamos ser capaces de diluir/reducir un incidente. En la práctica, en función de nuestra experiencia y entorno, tenemos diferentes grados de comodidad ante situaciones de incidentes. A continuación, se detallan formas para que puedas brindar apoyo y los pasos que puedes seguir durante o después de un incidente.
 
-If you can, move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening, but feel someone should, please submit a report in person to a workshop host or instructor or via the [Code of Conduct incident report form][reporting-form] to the Code of Conduct committee.
+Si puedes, pasa de ser un espectador a ser un agente de intervención rápida para el Código de Conducta. Si ves que sucede algo inapropiado, tienes que hablar. Si no te sientes cómodo al intervenir, pero crees que alguien debería hacerlo, presenta un informe en persona al anfitrión o instructor del taller, o mediante el [Formulario de Reporte de incidentes de Código de Conducta] [formulario-de-reporte] al Comité del Código de Conducta.
 
-##### Immediate Response 
+##### Respuesta Inmediata 
 
-The initial response to an incident is very important and will set the tone for The Carpentries community. Depending on the severity and/or details of the incident, an immediate response may be required. If an incident involves physical danger or involves a threat to anyone's safety (e.g. threats of violence), any member of the community may -- and should -- act immediately to protect safety. This can include contacting emergency or crisis resources.  
+La respuesta inicial a un incidente es muy importante y establecerá el tono para la comunidad de The Carpentries. Dependiendo de la gravedad y/o de los detalles del incidente, puede requerirse una respuesta inmediata. Si un incidente implica un peligro físico o una amenaza para la seguridad de cualquier persona (por ejemplo, amenazas de violencia), cualquier miembro de la comunidad puede -- y debe -- actuar de inmediato para proteger la seguridad. Esto puede incluir contactar recursos de emergencia o crisis.
 
-##### Ongoing Incidents
+##### Incidentes en curso
 
-If an incident is ongoing, whether in-person or online, any community member (workshop host, instructor, helper) may act immediately and employ any of the tools available to the community member to pacify the situation. In situations where an individual community member acts immediately, they must inform the workshop host as soon as possible and report their actions to the Code of Conduct Committee for review within 24 hours of the incident. Should there be a need for an immediate response, please see the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
+En el transcurso de un incidente, ya sea en persona o en línea, cualquier miembro de la comunidad (organizador del taller, instructor, ayudante) puede actuar de inmediato y emplear cualquiera de las herramientas disponibles para pacificar la situación. En situaciones en las que un individuo/miembro de la comunidad actúa de inmediato, se debe informar al organizador del taller enseguida y reportar sus acciones al Comité del Código de Conducta para su revisión dentro de las 24 horas posteriores al incidente. En caso de que sea necesaria una respuesta inmediata, consulte la [Lista de verificación de Respuesta Inmediata] (#Listas-de-verificación-para-responder-a-un-incidente).
 
-##### Checklists for Responding to an Incident
+##### Listas-de-verificación-para-responder-a-un-incidente
 
-**Immediate Response Checklist**
-* Assess whether you need a first-responder (law enforcement, etc.) to immediately respond to the incident. If so, ask the reporter to stay with you and dial the appropriate emergency response number.
-* If there is any general threat to participants and/or the safety of anyone attending a Carpentries event, contact the emergency response number established.
-* If individuals are physically safe, contact law enforcement or security only at the reporter’s request.
-* Follow any local guidelines for handling incidents, including if you have a legal reporting role. 
+**Lista de verificación de Respuesta Inmediata**
+* Evalúa si es necesaria la presencia de un agente de intervención rapida (cumplimiento de la ley, etc.) para responder al incidente inmediatamente.  Si es así, pídale al informante que se quede contigo y marca el número de respuesta ante emergencias apropiado.
+* Si existe una amenaza general para los participantes y/o para la seguridad de cualquier asistente a un evento de The Carpentries, comunícate con el número de respuesta de emergencia establecido.
+* Si las personas se encuentran seguras físicamente, comunícate con la policía o la seguridad sólo a solicitud del informante.
+* Sigue todas las pautas locales para la gestión de incidentes, incluyendo si tienes el papel de informante legal/jurídico. 
 
-**In-Person Event Checklist (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instructor Training)**
-* Ensure participants are safe.
-* If not, refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
-* Listen to the reporter and write down as many details as possible.
-* Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. If they would rather you complete the report, complete the report with their assistance. 
-* Inform the workshop host that there was an incident and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. 
+ **Lista de verificación de eventos en persona (talleres de Carpentries, CarpentryCon, CarpentryConnect, capacitación de instructores de Carpentries)**
+* Asegúrate de que los participantes estén a salvo.
+* Si no es así, consulta la [Lista de verificación de respuesta inmediata] (#Listas-de-verificación-para-responder-a-un-incidente).
+* Escucha al informante y escribe tantos detalles como sea posible.
+* Pídele al informante que reporte el incidente a través del [Formulario de Reporte de incidentes de Código de Conducta] [formulario-de-reporte]. Si prefieren que seas tú mismo quien complete el informe, hazlo con su ayuda.
+* Informa al organizador del taller que hubo un incidente y que se envió un informe a través del [Formulario de Reporte de incidentes] [formulario-de-reporte]. Si el incidente involucra al organizador del taller, informa el incidente directamente al Comité del Código de conducta a través del formulario de reporte del incidente.
+
 
 **Online Events and Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**
 * Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form]. 
@@ -44,6 +45,18 @@ Individuals reported often get upset, defensive, or deny the report. Allow them 
 - It does not matter if they did not intend to hurt anyone; their behaviour still impacted participants negatively.
 - It is not your job to reassure or forgive them.
 - Do not allow the reported person to make an apology to the reporter or impacted person. Often an apology centers the reported person’s feelings and not the person who was impacted. You may accept their apology and offer to pass it on, but you’re not required to if you think it would negatively impact the reporter.
+
+**Lista de Verificación para Canales de Comunicación y Eventos En Línea (demostraciones de enseñanza, discusiones de la comunidad, capacitación de instructores de carpinterías, canales Slack, TopicBox)**
+* Informe al organizador del evento / facilitador de la reunión que hubo un problema y envíe un informe a través del [formulario de informe de incidentes] [formulario de informe].
+* Si el incidente involucra al organizador del evento / facilitador de la reunión, complete el [formulario de informe de incidente] [formulario de informe] y tenga la seguridad de que nuestra prioridad es la confidencialidad y su experiencia en nuestra comunidad.
+
+Si un miembro de la comunidad ha violado el CoC a través de un evento en línea, el comité del CoC puede promulgar una [Suspensión Térmica] (termed-suspension.html) a corto plazo, y los privilegios del reporte para todos los canales de comunicación de Carpentries podrían suspenderse hasta que el Código de El Comité de Conducta ha concluido su investigación del incidente denunciado.
+
+Las personas informadas a menudo se enojan, se ponen a la defensiva o rechazan el informe. Permítales dar cualquier detalle adicional sobre el incidente. Sin embargo, recuerde:
+
+- No importa si no intentaron herir a nadie; su comportamiento todavía impactó negativamente a los participantes.
+- No es tu trabajo tranquilizarlos o perdonarlos.
+- No permita que la persona informada haga una disculpa al reportero o la persona afectada. A menudo, una disculpa centra los sentimientos de la persona informada y no la persona afectada. Puede aceptar sus disculpas y ofrecerse a transmitirlo, pero no está obligado a hacerlo si cree que podría tener un impacto negativo en el reportero.
 
 
 [reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
