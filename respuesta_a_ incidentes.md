@@ -50,13 +50,13 @@ Individuals reported often get upset, defensive, or deny the report. Allow them 
 * Informa al organizador del evento/facilitador de la reunión que hubo un problema y envía un informe a través del [Formulario de Reporte de incidentes] [formulario-de-reporte].
 * Si el incidente involucra al organizador del evento/facilitador de la reunión, completa el [Formulario de Reporte de incidentes] [formulario-de-reporte] y teniendo la seguridad de que nuestra prioridad es la confidencialidad y tu experiencia en nuestra comunidad.
 
-Si un miembro de la comunidad ha violado el CoC a través de un evento en línea, el comité del CoC puede promulgar una [Suspensión Témporaria] (termed-suspension.html) a corto plazo, y los privilegios del reportado para todos los canales de comunicación de Carpentries podrían suspenderse hasta que el Código de El Comité de Conducta ha concluido su investigación del incidente denunciado.
+Si un miembro de la comunidad ha violado el CoC en un evento en línea, el comité del CoC puede promulgar una [Suspensión Témporaria] (termed-suspension.html) de corto plazo, y podrían suspender los privilegios del reportado para todos los canales de comunicación de Carpentries hasta que el Código del Comité de Conducta haya concluido la investigación del incidente denunciado.
 
-Las personas informadas a menudo se enojan, se ponen a la defensiva o rechazan el informe. Permítales dar cualquier detalle adicional sobre el incidente. Sin embargo, recuerde:
+Las personas reportadas a menudo se enojan, se ponen a la defensiva o rechazan el informe. Permíteles dar cualquier detalle adicional sobre el incidente. Sin embargo, recuerda que:
 
-- No importa si no intentaron herir a nadie; su comportamiento todavía impactó negativamente a los participantes.
-- No es tu trabajo tranquilizarlos o perdonarlos.
-- No permita que la persona informada haga una disculpa al reportero o la persona afectada. A menudo, una disculpa centra los sentimientos de la persona informada y no la persona afectada. Puede aceptar sus disculpas y ofrecerse a transmitirlo, pero no está obligado a hacerlo si cree que podría tener un impacto negativo en el reportero.
+- No importa si no quisieron herir a nadie; su comportamiento impactó negativamente a los participantes.
+- No es tu trabajo reconfortarlos o perdonarlos.
+- No permitas que la persona reportada haga una disculpa al informante o a la persona afectada. A menudo, una disculpa se centra en los sentimientos de la persona reportada y no en la persona que resultó afectada. Puedes aceptar sus disculpas y ofrecerte a transmitirlas, pero no estás obligado a hacerlo si crees que podría impactar negativamente al informante.
 
 
-[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
+[formulario-de-reporte]: https://goo.gl/forms/KoUfO53Za3apOuOK2
